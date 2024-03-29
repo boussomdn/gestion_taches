@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "465789645018",
+    "project_id": "gestiontaches-cc7e7",
+    "storage_bucket": "gestiontaches-cc7e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465789645018:android:93086aad41aa221535f5e3",
+        "android_client_info": {
+          "package_name": "com.example.gestion_taches"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPFJSZj3WRt-Wp6yS7C_e678Y3gKLh46o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
